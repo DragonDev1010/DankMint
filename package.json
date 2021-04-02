@@ -1,0 +1,17 @@
+{
+  "name": "testing-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "solidity-coverage": "^0.7.16"
+  }
+}

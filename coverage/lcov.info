@@ -1,0 +1,23 @@
+TN:
+SF:/home/oncemore/Blockchain Work/testing-coverage/contracts/DankMint.sol
+FN:9,constructor
+FN:13,mint
+FN:21,totalSupply
+FNF:3
+FNH:3
+FNDA:3,constructor
+FNDA:4,mint
+FNDA:2,totalSupply
+DA:14,4
+DA:15,4
+DA:16,4
+DA:17,4
+DA:18,4
+DA:22,2
+LF:6
+LH:6
+BRDA:14,1,0,4
+BRDA:14,1,1,0
+BRF:2
+BRH:1
+end_of_record
